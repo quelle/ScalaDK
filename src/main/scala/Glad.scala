@@ -5,5 +5,4 @@ class Glad {
   def main(args: Array[String]): Unit = {
     println("gla.")
   }
-
 }
